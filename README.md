@@ -7,7 +7,7 @@
 
 
 Upcomming CS:GO matches<br/>
-Example: `cdnx.amsterdam/csgo/api/v1/matches/upcomming` would return
+Example: `<a href="https://cdnx.amsterdam/csgo/api/v1/matches/upcomming/">cdnx.amsterdam/csgo/api/v1/matches/upcomming</a>` would return
 ```
 {
     "id": "22073", 
@@ -23,7 +23,7 @@ Example: `cdnx.amsterdam/csgo/api/v1/matches/upcomming` would return
 ```
 
 Finished CS:GO matches<br/>
-Example: `cdnx.amsterdam/csgo/api/v1/matches/finished` would return
+Example: `<a href="https://cdnx.amsterdam/csgo/api/v1/matches/finished/">cdnx.amsterdam/csgo/api/v1/matches/finished</a>` would return
 ```
 {
     "id": "22072",
